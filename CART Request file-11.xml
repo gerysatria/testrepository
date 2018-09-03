@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<studentStudyCircRequest005>
+	<header>
+    <system>CART</system>
+    <timestamp>20180831133440</timestamp>
+    <userId>BOND-NUH967</userId>
+  </header>
+  <requests>
+    <matchRequest>
+      <rrn>100091659</rrn>
+      <studentId>13346645</studentId>
+      <name>
+        <firstName>hikmi-disburse</firstName>
+        <middleName></middleName>
+        <surname>bahrul</surname>
+      </name>
+			<dateOfBirth>1991-01-22</dateOfBirth>
+      <gender>M</gender>
+    </matchRequest>
+	<matchRequest>
+      <rrn>100091660</rrn>
+      <studentId>13450559</studentId>
+      <name>
+        <firstName>Messi</firstName>
+        <middleName></middleName>
+        <surname>Lionel</surname>
+      </name>
+			<dateOfBirth>1993-08-01</dateOfBirth>
+      <gender>M</gender>
+    </matchRequest>
+	<matchRequest>
+      <rrn>100091661</rrn>
+      <studentId>13450889</studentId>
+      <name>
+        <firstName>Alex</firstName>
+        <middleName></middleName>
+        <surname>MC-Donald</surname>
+      </name>
+			<dateOfBirth>1990-04-17</dateOfBirth>
+      <gender>M</gender>
+    </matchRequest>
+	<matchRequest>
+      <rrn>100091662</rrn>
+      <studentId>13450892</studentId>
+      <name>
+        <firstName>Silver</firstName>
+        <middleName></middleName>
+        <surname>MC Queen</surname>
+      </name>
+			<dateOfBirth>1990-04-17</dateOfBirth>
+      <gender>M</gender>
+    </matchRequest>
+  </requests>
+  <trailer>
+    <numRecords>4</numRecords>
+  </trailer>
+</studentStudyCircRequest005>
